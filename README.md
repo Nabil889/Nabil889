@@ -18,5 +18,5 @@ I'm a developer learning by building. Currently diving deeper into Python and wo
 
 - 🌐 [Website](https://www.nabilaouni.com) - My portfolio and blog
 
-***
+
 
