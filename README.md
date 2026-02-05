@@ -16,7 +16,7 @@ I'm a developer learning by building. Currently diving deeper into Java and Pyth
 
 ## Projects
 
-- 🌐 [Website](https://www.nabilaouni.com) - My portfolio and blog
+- 🌐 [Website](https://www.nabilaouni.com) - My portfolio Website
 
 
 
