@@ -1,21 +1,53 @@
-# Hi
+# Hi, I'm Nabil 👋
 
-I'm a Data Analyst learning by building. Currently diving deeper into Python and working on small projects to improve my skills.
+Data Analyst in the pharmaceutical industry with a passion for software development, data engineering, and data science.
 
-***
+Currently building internal applications with Python and Streamlit while working with manufacturing data, industrial systems, and cloud technologies.
 
-## Tech I work with
+---
 
+## 🚀 What I'm working on
+
+- 📊 Data Analytics & Manufacturing KPIs
+- 🐍 Python Development
+- 🌐 Streamlit Applications
+- ☁️ Azure & Cognite Data Fusion
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
 - Python
-- TypeScript
-- React
+- SQL
 
+### Data
+- Pandas
+- Power BI
+- Cognite Data Fusion
 
-***
+### Development
+- Streamlit
+- Git
+- GitHub
+- VSCode
 
-## Projects
+### Cloud
+- Azure
+- Azure DevOps
 
-- 🌐 [Website](https://www.nabilaouni.com) - My portfolio Website
+---
 
+## 🎯 Current Goals
 
+- Master Python
+- Learn Data Engineering
+- Build production-ready Streamlit applications
+- Deepen my Data Science knowledge
 
+---
+
+## 📫 Connect with me
+
+- LinkedIn: https://www.linkedin.com/in/nabilaouni/
+- Portfolio: https://www.nabilaouni.com
