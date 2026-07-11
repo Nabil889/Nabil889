@@ -40,10 +40,8 @@ Currently building internal applications with Python and Streamlit while working
 
 ## 🎯 Current Goals
 
-- Master Python
-- Learn Data Engineering
+- Master Python, Pandas and NumPy
 - Build production-ready Streamlit applications
-- Deepen my Data Science knowledge
 
 ---
 
