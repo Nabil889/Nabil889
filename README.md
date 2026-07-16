@@ -1,47 +1,18 @@
 # Hi, I'm Nabil 👋
 
-Data Analyst in the pharmaceutical industry with a passion for software development, data engineering, and data science.
+I'm a Data Analyst from Switzerland who enjoys building software, learning new technologies, and solving real-world problems with code.
 
-Currently building internal applications with Python and Streamlit while working with manufacturing data, industrial systems, and cloud technologies.
+Most of my repositories are part of my learning journey in Python, software engineering, and industrial data.
 
----
+## Currently working on
 
-## 🚀 What I'm working on
+🐍 Python
 
-- 📊 Data Analytics & Manufacturing KPIs
-- 🐍 Python Development
-- 🌐 Streamlit Applications
-- ☁️ Azure & Cognite Data Fusion
+☁️ Cognite Data Fusion
 
----
+💻 Software Engineering
 
-## 🛠 Tech Stack
-
-### Languages
-- Python
-- SQL
-
-### Data
-- Pandas
-- Power BI
-- Cognite Data Fusion
-
-### Development
-- Streamlit
-- Git
-- GitHub
-- VSCode
-
-### Cloud
-- Azure
-- Azure DevOps
-
----
-
-## 🎯 Current Goals
-
-- Master Python, Pandas and NumPy
-- Build production-ready Streamlit applications
+🏭 Manufacturing Data
 
 ---
 
